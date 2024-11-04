@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/css/main.2db825d3.css",
+    "main.js": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/js/main.fbed2192.js",
+    "static/js/453.f0f88b0d.chunk.js": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/js/453.f0f88b0d.chunk.js",
+    "static/media/displayIcon.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/displayIcon.0168095040354204011b596e30abf32e.svg",
+    "static/media/noPriorityIcon.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/noPriorityIcon.7218b139313728c6a4efa8da6e34852b.svg",
+    "index.html": "/DHANANJAYYYYY/Quicksell-KanbanBoard/index.html",
+    "static/media/lowIcon.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/lowIcon.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/mediumIcon.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/mediumIcon.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/highIcon.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/highIcon.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/urgentIcon.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/urgentIcon.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/logo.svg": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/media/logo.c305bf8eaaffa1f481d12cebea0068f5.svg",
+    "main.2db825d3.css.map": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/css/main.2db825d3.css.map",
+    "main.fbed2192.js.map": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/js/main.fbed2192.js.map",
+    "453.f0f88b0d.chunk.js.map": "/DHANANJAYYYYY/Quicksell-KanbanBoard/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db825d3.css",
+    "static/js/main.fbed2192.js"
+  ]
+}
